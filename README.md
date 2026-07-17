@@ -33,23 +33,18 @@
 <!--Github status windows-->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
 <table>
-  
-  <!-- Most Used Language-->
-  <td align="center">
-    <img align="center" width="600px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ellisia-Chan&show_icons=true&locale=en&hide_progress=true&theme=omni&hide_border=true"/>
-  </td>
-
-  <!-- GitHub Stats and Progress -->
-  <td align="center">
-    <img align="center" width="600px" height="200px" src="https://github-readme-stats.vercel.app/api?username=Ellisia-Chan&rank_icon=github&count_private=true&show_icons=true&theme=omni&hide_border=true"/>
-  </td>
-  
-</table>
 
 <!-- GitHub Streak -->
 <div align="center">
   <img align="center" width="600px" height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=Ellisia-Chan&theme=omni&hide_border=true&mode=weekly&currStreakNum=EB4ADD&fire=EB0000&currStreakLabel=E480EB)"/>
 </div>
+
+<!-- Contributions Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ellisia-Chan&radius=16&theme=github-dark&area=true&order=5&hide_title=true&hide_border=true" height="300" alt="activity-graph graph"  />
+</div>
+
+
 
 <!----------------------------------------------------------------------------------------------------------------------->
 <!----------------------------------------------------------------------------------------------------------------------->
